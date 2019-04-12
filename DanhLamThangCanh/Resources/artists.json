@@ -1,0 +1,324 @@
+{
+  "artists" : [
+    { 
+      "name" : "Chợ bến thành",
+      "bio" : "Nằm ngay bên cạnh quảng trường Quách Thị Trang và công viên: 23/9 là khu chợ Bến Thành. Chợ có bốn cổng, mỗi cổng có gắn đồng hồ và hướng ra các tuyến phố chính như:  Cửa Bắc nhìn ra đường Lê Thánh Tôn, cửa Nam nhìn ra đường Lê Lợi, cửa Đông nhìn ra đường Phan Bội Châu, cửa Tây nhìn ra đường Phan Chu Trinh và cổng chính có tháp cao nhìn ra quảng trường Quách Thị Trang.",
+      "image" : "chobenthanh",
+      "works" : [
+          {"title" : "Gian hàng chợ",
+          "image" : "chobenthanh1",
+          "info" : "Chợ có hơn 3.000 sạp hàng, bán sỉ, bán lẻ đủ các loại hàng hóa, từ thực phẩm vật dụng hàng ngày đến những hàng xa xỉ phẩm. Chợ bắt đầu mở cửa hoạt động từ 4h sáng tại khu vực cửa Bắc với các sạp hoa quả và mặt hàng tươi sống loại cao cấp cung cấp thực phẩm cho các gia đình, quán ăn và nhà hàng lớn trong thành phố. Đến 8 – 9h sáng, các quầy, sạp ở ba cửa chính Đông, Tây, Nam, các cửa phụ và trong lồng chợ… đồng loạt mở cửa đón khách từ khắp nơi đổ về. Từ khu vực các cửa ra vào đến khu nhà lồng chợ đâu đâu cũng diễn ra cảnh mua bán tấp nập. " },
+          {"title" : "Không gian chợ",
+          "image" : "chobenthanh2",
+          "info" : "Chợ Bến Thành luôn luôn nhộn nhịp, sầm uất chính là do vị trí trung tâm và thương hiệu Bến Thành. Khách vãng lai, khách du lịch, nhất là Việt kiều, khách nước ngoài… đã đến Sài Gòn thì đều thích ghé qua chợ Bến Thành, vì nó là đặc trưng văn hóa chợ của người Sài Gòn. Hầu hết các công ty du lịch, các hãng lữ hành… trong và ngoài nước đều đưa chợ Bến Thành vào tour của mình. Bên cạnh đó, mới đây, tờ tin tức USA Today của Mỹ đã xếp hạng 45 khu chợ ẩm thực tuyệt vời nhất thế giới, trong đó chợ Bến Thành của Việt Nam đứng thứ 15. Những khu chợ này đều được coi là biểu tượng văn hóa của mỗi quốc gia." },
+          {"title" : "Gian hàng khô",
+          "image" : "chobenthanh3",
+        "info" : "Các tiểu thương ở chợ Bến Thành ngày nay không còn mang hình ảnh những phụ nữ cần cù, lam lũ, chịu thương chịu khó như trước đây nữa  mà đều là những nhà kinh doanh thực thụ. Họ trẻ trung, xinh đẹp, ăn mặc thời thượng và đặc biệt là nói ngoại ngữ rất lưu loát, từ Anh, Hoa, Nhật, Hàn, Pháp, Đức….và thậm chí cả tiếng Campuchia. Chuyện người bán hàng nói hai, ba ngoại ngữ một cách thông thạo không còn là mới ở chợ Bến Thành. Theo một nhân viên ban quản lý chợ, có đến 80 – 90% nhân viên bán hàng của các quầy quần áo, mỹ phẩm, thổ cẩm, hàng lưu niệm… nói được ít nhất hai ngoại ngữ trở lên."}  
+      ]
+    },
+    {
+      "name" : "Nhà thờ đức bà",
+      "bio" : "Nằm giữa trung tâm quận 1 thành phố Hồ Chí Minh, Nhà thờ Đức Bà đồ sộ với kiến trúc cổ của Pháp, không gian rộng thoáng từ bên ngoài vào đến bên trong thánh đường, đây cũng là một trong những biểu tượng của Sài Gòn, là điểm đến quen thuộc của giới trẻ đất Sài Thành và còn là địa điểm nằm trong danh sách ghé thăm đầu tiên của khách du lịch trong và ngoài  nước khi lần đầu đặt chân đến đây.",
+      "image" : "nhathoducba",
+      "works" : [
+          {"title" : "Kiến trúc",
+          "image" : "nhathoducba1",
+        "info" : "Nhà thờ Đức Bà là cách gọi gắn gọn của Nhà thờ chính tòa Đức Bà Sài Gòn và có tên chính thức là Vương cung thánh đường chính tòa Đức Mẹ Vô nhiễm Nguyên tội. Kiến trúc của nhà thờ được xây dựng theo đồ án của kiến trúc sư J.Bourard với phong cách kiến trúc Roman pha trộn với phong cách kiến trúc Gothic, bao gồm có thánh đường, tháp chuông và công viên bên ngoài."},
+          {"title" : "Tòa thánh đường",
+          "image" : "nhathoducba2",
+        "info" : "Tòa thánh đường được thiết kế đặc biệt, có thể chịu tới gấp 10 lần toàn bộ kiến trúc ngôi nhà thờ bên trong. Nội thất bên trong được thiết kế gồm một lòng chính, hai lòng phụ, tiếp đến là 2 dãy nhà nguyện. Toàn bộ chiều dài của thánh đường là 93m, chiều rộng nhất lên tới 35m, chiều cao của mái vòm là 21m. Với thiết kế này, thánh đường có sức chứa có thể đạt tới 1.200 người. "},
+          {"title" : "Tháp chuông của nhà thờ",
+          "image" : "nhathoducba3",
+        "info" : "Tháp chuông tựa như linh hồn của nhà thờ. Thuở sơ khai chỉ có 2 tháp chuông. Vào năm 1895, có tất cả 6 chuông theo 6 âm (đồ, rê, mi, son, la, si) treo trên 2 tháp chuông và hai mái chóp được xây thêm để che 2 gác chuông cao 21m theo thiết kế của kiến trúc sư Gardes."},
+          {"title" : "Công viên phía ngoài nhà thờ",
+          "image" : "nhathoducba4",
+        "info" : "Công viên là khuôn viên bên ngoài mặt trước tòa thánh đường. Trung tâm của công viên là bức tượng Đức Mẹ Hòa Bình, do điêu khắc G.Ciocchetti thực hiện vào năm 1959. Bức tượng cao 4.6m, nặng 8 tấn, bằng đá cẩm thạch trắng của Ý. Tượng Đức Mẹ trong tư thế đứng thẳng, tay cầm trái địa cầu, trên trái địa cầu có đính cây thánh giá, mắt Đức Mẹ đăm chiêu nhìn lên trời như cầu nguyện hòa bình cho người dân và đất nước Việt Nam."}
+      ]
+    },
+    {
+      "name" : "Dinh độc lập ",
+      "bio" : "Dinh Độc Lập (tên gọi trước đây là dinh Norodom, ngày nay còn gọi là dinh Thống Nhất hay hội trường Thống Nhất) là một công trình kiến trúc, tòa nhà ở Thành phố Hồ Chí Minh. Đây từng là nơi ở và làm việc của Tổng thống Việt Nam Cộng hòa. Hiện nay, đã được chính phủ Việt Nam xếp hạng là di tích quốc gia đặc biệt.",
+      "image" : "dinhdoclap",
+      "works" : [
+          {"title" : "Toàn cảnh dinh độc lập",
+          "image" : "dinhdoclap1",
+        "info" : "Dinh Độc Lập  khởi công ngày 23/2/1868 và hoàn tất vào năm 1871 do viên thống đốc Pháp tại miền Nam Việt Nam là Lagradìere đặt viên đá đầu tiên..Sân trước của dinh là một thảm cỏ hình oval có đường kính 102 m. Màu xanh thảm cỏ tạo ra cảm giác êm dịu, sảng khoái ngay khi bước qua cổng. Chạy dài suốt chiều ngang của đại sảnh là hồ nước hình bán nguyệt. Trong hồ thả hoa sen và súng gợi nên hình ảnh những hồ nước yên ả ở các ngôi đình, chùa cổ kính của Việt Nam."},
+          {"title" : "Chiếc xe tăng lịch sử",
+          "image" : "dinhdoclap2",
+        "info" : "Ngày 30/4/1975, xe tăng mang số hiệu 843 của quân giải phóng thuộc Ðại đội 4, Tiểu đoàn 1, Lữ đoàn xe tăng 230, Quân đoàn 2 dẫn đầu đội hình đã húc nghiêng cổng phụ của Dinh Ðộc Lập, tiếp đó xe tăng mang số hiệu 390 đã húc tung cổng chính tiến thẳng vào Dinh. 11h30’ cùng ngày, Trung úy Bùi Quang Thận – Ðại đội trưởng chỉ huy xe tăng 843 đã hạ lá cờ 3 sọc xuống, kéo lá cờ mặt trận dân tộc giải phóng miền Nam Việt Nam lên. Cờ phấp phới tung bay trên nóc Dinh, kết thúc 30 năm chiến tranh gian khổ và anh dũng của dân tộc Việt Nam."},
+          {"title" : " Trưng bày",
+          "image" : "dinhdoclap3",
+        "info" : "Khu vực trưng bày các bức ảnh và vật dụng thời kỳ kháng chiến chống Mỹ, đặc biệt là những tư liệu lịch sử về cuộc Tổng tiến công và nổi dật mùa xuân 1975."},
+          {"title" : "Bếp trong dinh",
+          "image" : "dinhdoclap4",
+        "info" : "Bếp bên trong Dinh. Đây là nơi nấu ăn phục vụ các buổi tiệc chiêu đãi trọng thể, được trang bị hiện đại như bếp của khách sạn 5 sao thời bấy giờ. Các thiết bị đều được làm bằng inox, sản xuất tại Nhật 1966, sử dụng gas và điện, có kho lạnh riêng biệt để bảo quản thức ăn, có hệ thống hút khí và thang máy vận chuyển 100kg lên các tầng trên."},
+        {"title" : "Sân thượng",
+          "image" : "dinhdoclap5",
+        "info" : "Trên sân thượng vẫn còn một chiếc trực thăng UH1. Đây là loại máy bay chiến đấu do hãng Bell (Mỹ) chế tạo, trang bị cho Mỹ năm 1959 và sử dụng tại chiến tranh Việt Nam năm 1962. Hai khoanh tròn đỏ cũng như mảnh bom còn sót lại ghi nhớ vụ ném bom ngày 8/4/1975 của phi công Nguyễn Thành Trung."}
+      ]
+    },
+    {
+      "name" : "Bưu điện trung tâm sài gòn",
+      "bio" : "Bưu điện trung tâm Sài Gòn là một trong những công trình kiến trúc tiêu biểu tại Thành phố Hồ Chí Minh, tọa lạc tại số 2, Công trường Công xã Paris, Quận 1. Đây là tòa nhà được người Pháp xây dựng trong khoảng năm 1886–1891 với phong cách châu Âu theo đồ án thiết kế của kiến trúc sư Villedieu cùng phụ tá Foulhoux. Đây là công trình kiến trúc mang phong cách phương Tây kết hợp với nét trang trí phương Đông.",
+      "image" : "buudientrungtam",
+      "works" : [
+          {"title" : "Bên trong bưu điện",
+          "image" : "buudientrungtam",
+        "info" : "Toà nhà Bưu điện Sài Gòn là một trong những công trình kiến trúc nổi tiếng của thành phố. Khác với các công trình kiến trúc đậm nét Pháp ở trên, Bưu điện Trung tâm Sài có nhiều đặc trưng của phong cách kiến trúc châu Âu kết hợp với châu Á. Mặt tiền của bưu điện được trang trí những bảng tên một số danh nhân Pháp như Laplace, Voltaire, Arage, cùng một số ô vuông trang trí được tạo hình quen thuộc... Trên vòng cung ngôi nhà có chiếc đồng hồ lớn. Bước chân vào phía trên trong, khách thấy hai bên tường cao là hai bản đồ lịch sử của Sài Gòn, các kiến trúc gothic và hơn 35 quầy phục vụ khách hàng. Hiện nay, nơi đây còn có các quầy bán đồ lưu niệm với các sản phẩm thủ công mang đậm bản sắc Việt Nam Nằm ở vị trí trung tâm của thành phố, vẻ đẹp độc đáo của toà nhà bưu điện thành phố càng được tôn lên. Trước mặt nó là nhà thờ Đức Bà với tháp chuông cao vút. Nhìn sang hai bên là những tòa nhà cao tầng hiện đại. Sự kết hợp hài hòa này biến nơi đây thành một địa điểm vừa mang nét đẹp cổ kính, lại vừa tràn ngập hơi thở của cuộc sống hiện đại."},
+          {"title" : "Mặt ngoài bưu điện",
+          "image" : "buudientrungtam1",
+        "info" : "Bên ngoài, phía trước ngôi nhà trang trí theo từng ô hình chữ nhật, trên đó ghi danh những nhà phát minh ra ngành điện tín và ngành điện."},
+          {"title" : "Quầy bán đồ lưu niệm",
+          "image" : "buudientrungtam2",
+        "info" :  "Dọc hai bên hành lang tòa nhà được bày bán hàng nghìn sản phẩm đồ lưu niệm, bưu ảnh về đất nước con người Việt Nam cũng như về Sài Gòn nói riêng để phục vụ khách du lịch.Du khách đến đây một phần để ngắm nét kiến trúc độc đáo của bưu điện này. Với nhiều người thì đây là điểm nghỉ chân lý tưởng sau một vòng tham quan thành phố Sài Gòn."},
+          { "title" : "Hai tượng đài",
+          "image" : "buudientrungtam3",
+        "info" : "Hai bên vườn hoa trước cửa là hai tượng đài Bưu điện thời kỳ phát triển hiện đại, được xây dựng dịp chào mừng kỷ niệm 300 năm Sài Gòn."}
+      ]
+    },
+    {
+      "name" : "Thảo cầm viên",
+      "bio" : "Vị trí: 2B Nguyễn Bỉnh Khiêm, quận 1, Tp. Hồ Chí Minh. Ðặc điểm: Thảo Cầm Viên Sài Gòn là một trong những địa chỉ văn hoá của thành phố Hồ Chí Minh, nơi bảo tồn động thực vật có tuổi thọ đứng hàng thứ 8 trên thế giới.",
+      "image" : "thaocamvien",
+      "works" : [
+          {"title" : "Vườn thú",
+          "image" : "thaocamvien1",
+        "info" : "Thảo Cầm Viên là vườn thú có tuổi thọ đứng hàng thứ 8 trên thế giới. Khuôn viên rộng lớn sau hơn 150 năm tồn tại, Thảo Cầm Viên đã trở thành một vườn thú lớn với 125 loài thú, thực vật có gần 500 loài với nhiều loài cây gỗ, phong lan, xương rồng đa dạng và vẫn đang tiếp tục bổ sung. "},
+          {"title" : "Giới thiệu",
+          "image" : "thaocamvien2",
+          "info" : "Thuở sơ khai, Thảo Cầm Viên được ưu ái với cái tên cực kỳ mĩ miều: Vườn Bách Thảo, thể hiện cho một hệ sinh thái tươi xanh và đa dạng của nơi đây. Ngày nay, người dân đặt cho nó một cái tên thân thương hơn là Thảo Cầm Viên, hay dân dã hơn là Sở thú – hiện nằm ở số 2B Nguyễn Bỉnh Khiêm, P. Bến Nghé, Q.1, TP. Hồ Chí Minh.Rẽ phải vào đường Lê Duẩn, bạn sẽ bắt gặp cánh cổng hoành tráng của Thảo Cầm Viên ở khúc giao với đường Nguyễn Bỉnh Khiêm. Cổng màu xanh lá và được che phủ bởi hàng cây xum xuê tươi tốt, ôm lấy cổng chính từ bãi giữ xe. Chưa cần bước vào là đã thấy sảng khoái hơn là ở ngoài con đường Tôn Đức Thắng trơ trọi không một bóng xanh rồi. Thật đấy!"}
+      ]
+    },
+    {
+      "name" : "Địa đạo củ chi",
+      "bio" :"Địa đạo Củ Chi cách Thành phố Hồ Chí Minh 70km về phía Tây Bắc, là hệ thống phòng thủ trong lòng đất của quân và dân Củ Chi trong thời kỳ Kháng chiến chống Mỹ.",
+      "image" : "diadaocuchi",
+      "works" : [
+          {"title" : "Giới thiệu",
+          "image" : "diadaocuchi1",
+        "info" : "Ngày nay, địa đạo Củ Chi còn khoảng 120 km được bảo vệ và đã trở thành một điểm du lịch hấp dẫn cho du khách đến thăm Thành phố Hồ Chí Minh. Du khách, đặc biệt là cựu chiến binh, thường chọn điểm tham quan này khi đến thăm Thành phố Hồ Chí Minh. Du khách được trải nghiệm cuộc sống dưới địa đạo như những cư dân thực thụ trước đây (được tham quan, ăn uống những món ăn của cư dân địa đạo trước đây)."},
+          {"title" : "Cửa hầm vào địa đảo củ chi",
+          "image" : "diadaocuchi2",
+          "info" : "Địa đạo Củ Chi có chiều dài lên đến khoảng 250 km, từ đường “xương sống” địa đạo tỏa rộng như mạng nhện trong lòng đất, bao gồm các công trình: đường hầm, chiến hào, ụ, ổ chiến đấu, hầm ăn, ngủ, hội họp, bếp, giếng nước, kho dự trữ…Các công trình ăn thông với nhau hoặc có thể độc lập chấm dứt tùy địa hình. Một số nhánh của địa đạo đổ ra sông Sài Gòn để đề phòng trường hợp nguy kịch có thể vượt sông qua căn cứ Bến Cát ( Bình Dương)."},
+          {"title" : "Một số hoạt động vui chơi tại địa đảo củ chi",
+          "image" : "diadaocuchi3",
+        "info" : "Ngoài di tích lịch sử đặc biệt địa đạo Củ Chi, ở đây còn có nhiều hoạt động vui chơi khác hấp dẫn như: bắn súng thể thao quốc phòng, bắn súng sơn, bơi lội, chèo thuyền trên hồ hay thuê xe đạp vòng quanh địa đạo.Đi vòng quanh khu du lịch địa đạo Củ Chi cũng là một trải nghiệm đáng thử. Ở đây không khí trong lành, không ồn ào như nội thành Sài Gòn, đem lại cho bất kì ai tới đây một cảm giác thư thái.        "}
+      ]
+    },
+    {
+      "name" : "Khu du lịch suối tiên",
+      "bio" :"Khu du lịch Văn hóa Suối Tiên là một trong những địa điểm vui chơi, giải trí cuối tuần nổi tiếng của người dân TP HCM. Đây cũng là điểm tham quan lý tưởng của du khách trong nước và quốc tế khi du lịch Sài Gòn. Đặc biệt, vào các lễ hội lớn, khu du lịch văn hóa Suối Tiên còn tổ chức nhiều hoạt động sôi nổi và đặc sắc phục vụ du khách. Hãy cùng Viet Fun Travel khám phá khu du lịch văn hóa Suối Tiên TP HCM.      ",
+      "image" : "suoitien",
+      "works" : [
+        {"title" : "Giới thiệu",
+          "image" : "suoitien",
+        "info" : "Khu du lịch Văn hóa Suối Tiên tọa lạc trên một vùng đất đồi hình chữ S, rộng 200.000m2, chính giữa có dòng suối với nhiều mạch nước ngầm uốn lượn chảy xuyên qua suốt chiều dài 2.000m. Khu du lịch này được xây dựng, cải tạo với mục đích kết hợp du lịch với giáo dục văn hóa lịch sử, nguồn cội dân tộc.Khu du lịch Văn hóa Suối Tiên được đầu tư với tổng nguồn vốn hơn 50 tỉ đồng, gồm 12 khu vực chính. Hàng năm khu du lịch Suối Tiên đón hơn 2 triệu lượt khách đến tham quan, vui chơi, giải trí. Nét độc đáo của khu du lịch văn hóa Suối Tiên là kiểu cách kiến trúc và các thể loại vui chơi được gắn lồng vào các hình ảnh lịch sử và truyền thuyết Việt Nam như Lạc Long Quân – Âu Cơ, sự tích Vua Hùng, sự tích trăm trứng, Sơn Tinh Thủy Tinh, sự tích bánh chưng bánh dày, sự tích quả dưa hấu, chín tầng địa ngục… Mô hình bên trong khu du lịch Suối Tiên được xây dựng thành 4 vùng đất theo truyền thuyết về tứ linh: Long – Lân – Quy – Phụng, ứng vơi ngũ hành Kim – Mộc – Thủy – Hỏa – Thổ. Tham quan khu du lịch văn hóa Suối Tiên, du khách có cơ hội khám phá Thủy cung độc đáo ở nơi đây. Thủy cung ở khu du lịch văn hóa Suối Tiên được thiết kế đặc biệt bên trong mình rồng với hình dạng uốn khúc. Đến Thủy cung, du khách được ngắm nhìn hơn 100 loài sinh vật biển bơi lội trong các bể kính, khoảng 40 loài hải quỳ, san hô sống cùng nhiều loài cá được du nhập từ nhiều nước trên thế giới như cá hoàng hậu, cá bò bống bi…"},
+          {"title" : "Đại cung lạc tiên ngư",
+          "image" : "suoitien1",
+        "info" : "Du khách có thể tìm đến Đại cung lạc cảnh Tiên Ngư để tận mắt thưởng thức những màn biểu diễn lạ mắt của những chú Cá heo và Sư tử biển. Những con vật này có thể thực hiện các màn biểu diễn như tung bóng, nhảy qua vòng lửa, khiêu vũ trên mặt nước, làm toán"},
+          {"title" : "lâu đài tuyết",
+          "image" : "suoitien2",
+          "info" : "Lâu Đài Tuyết ở khu du lịch Suối Tiên TP HCM cũng là một nơi mà du khách không nên bỏ qua. Đến đây, du khách sẽ có cảm giác như lạc vào miền Bắc cực băng giá với nhiệt độ từ 5°C đến -15 °C. Ngoài ra, du khách còn được nhìn ngắm những chú gấu Bắc cực dễ thương, chiêm ngưỡng những tác phẩm nghệ thuật bằng tuyết độc đáo và vui đùa trượt băng."},
+          {"title" : "Biển tiên đồng",
+            "image" : "suoitien3",
+          "info" : "Một công trình đặc biệt thu hút đông đảo du khách vào tham quan, vui chơi tại Suối Tiên đó là khu vực Biển Tiên Đồng. Đây là một trong số ít mô hình biển nhân tạo ở Việt Nam, với 15.000m2 mặt nước biển. Xung quanh Biển Tiên Đồng có đỉnh núi Lạc Long Quân cao 70m, đối diện là núi Âu Cơ và các dãy núi Ngũ Châu, Hoàng Thiên, Hương Khư, Thiên Thủy, Bồng Lai. Bên trong những dãy núi là những hang động nổi tiếng từ thời xa xưa được tái tạo tại đây như: Động Hương Tích, Bích Động..."}
+      ]
+    },
+    {
+      "name" : "Công viên văn hóa đầm sen",
+      "bio" :"Công viên Văn hoá Đầm Sen là công viên giải trí nằm trên đường Hòa Bình, Quận 11, Thành phố Hồ Chí Minh. Công viên có diện tích 50 hecta gồm 20% là mặt hồ và 60% cây xanh và vườn hoa.",
+      "image" : "damsen",
+      "works" : [
+          {"title" : "Giới thiệu",
+          "image" : "damsen1",
+        "info" : "Khi đến đây du khách có thể đi nhiều ngày mới thấu trên 30 khu vực: Khu trò chơi điện tử, Sân khấu cổ tích, Lâu đài cổ tích, Sân khấu quảng trường, Hồ Tây thu nhỏ, Nam tú thượng uyển, Non bộ – thủy cung, Ðảo khiêu vũ, Nhà sinh vật biển, Rối nước, Vườn chim thiên nhiên, Chùa cổ Giác Viên, Vườn bướm thiên nhiên, Khu câu cá, Khu trưng bày kỳ long, Quán trà đạo, Khu trò chơi mạo hiểm, Hồ thiên nga, Hồ ngựa phi, Vườn hoa châu Âu, Quảng trường La Mã, Quảng trường văn hoá, Sân khấu nhạc nước, Khu bowling, Khu dịch vụ thể thao, Hồ câu tôm, Nhà hàng thủy tạ, Khu trò chơi thiếu nhi, Ðèn tạo hình, Cầu cửu khúc, Nhà ga Monorail, đường ray Monorail, câu cá sấu, băng đăng…"},
+          {"title" : "Vườn nhiệt đới",
+          "image" : "damsen2",
+          "info" : "Vườn nhiệt đới với trên 70 loài chim và 20 loài thú sống quần cư. Một hòn non bộ cao 22m với nhiều thác ghềnh, hang động mà tầng hang động lớn nhất được bố trí thành thuỷ cung với đủ các loài cá nhiều màu. Rồi Nam tú thượng uyển với một hệ thống vườn phong lan, các loại cây cảnh bonsai phong phú và đa dạng. Với đối tượng thiếu niên ưa hiếu động trong công viên có khá nhiều sân chơi hấp dẫn: sân trượt patanh, xe ô tô điện, tàu trượt cao tốc, công viên nước…Ðặc biệt trong công viên nước Ðầm Sen có những công trình mà chưa công viên nào trong nước có: Tàu du lịch trên không (Monorail). Ngồi trên tàu chạy trên cao 5m so với mặt đất và với chiều dài gần 2000m du khách có thể quan sát toàn bộ cảnh trí công viên Ðầm Sen với góc nhìn đẹp nhất. Bạn nào ưa trò mạo hiểm có thể thử sức với thuyền mạo hiểm vượt thác. Con thuyền sẽ đưa bạn qua thác ghềnh, hang động, và lao xuống theo thác nước dựng đứng. Công trình gây ấn tượng nhiều nhất có lẽ là vườn Châu Âu – Quảng trường La Mã: đây là hệ thống vườn hoa kiểu châu Âu được tạo dáng bằng các bồn hoa hồng nhiều màu sắc, các cột trụ La Mã uy nghi, những tượng đá duyên dáng và sân khấu nhạc nước gồm 3.000 chổ ngồi…"}
+      ]
+    },
+    {
+      "name" : "Núi Tà Cú-Phan Thiết",
+      "bio" :"Núi Tà Cú cao 649 m, nằm ven Quốc lộ 1A, thuộc thị trấn Thuận Nam, huyện Hàm Thuận Nam, cách Phan Thiết 28 km về phía Nam là một thắng cảnh và là một điểm leo núi của tỉnh Bình Thuận. Cung đường lên núi Tà Cú khá đẹp và thơ mộng với nhiều loại cây và hoa khác nhau đặc biệt là hoa bằng lăng, trên đỉnh núi là bức tượng Phật đang nằm dài 49 m cao 7 m  xây dựng 1963. Đây là địa điểm lý thú cho các du khách ưa mạo hiểm và muốn chinh phục độ cao, các bạn không nên bỏ lỡ nha.",
+      "image" : "nuitacu",
+      "works" : [
+          {"title" : "Cáp treo ",
+          "image" : "nuitacu1",
+        "info" : "Dự án cáp treo lên núi được đưa vào sử dụng năm 2003 với hệ thống cáp treo hiện đại do Châu Âu sản xuất. Trạm ga cách đường đi bộ lên núi vài trăm mét, từ đó với tuyến cáp treo gồm 25-35 Cabin đóng-mở cửa tự động, mỗi Cabin chở được 06 người di chuyển trên đường cáp dài 1600m và cao 500m. Công suất tải khách lên xuống trong vòng 1 giờ có thể đến 1000 lượt khách, chỉ mất từ 7-10 phút để đến ga trên.Khi ngồi Cabin cáp treo lên núi Tà Cú, du khách có thể ngắm toàn cảnh của gần nửa phía núi. Bên dưới là thị trấn Thuận Nam ôm trong lòng con đường quốc lộ 1A với xe cộ tấp nập và những vườn thanh long trái chín đỏ được trồng thành từng hàng thẳng tắp. Xa xa là ngọn hải đăng Kê Gà in lên nền biển xanh biếc. Cabin đưa khách nhẹ nhàng lướt trên những ngọn cây cổ thụ, có lúc xuyên qua những đám mây mờ còn ẩm lạnh hơi sương như giữa chốn bồng lai."},
+          {"title" : "Chùa trên núi tà cú",
+          "image" : "nuitacu2",
+          "info" : "Trong lịch sử, chùa núi Tà Cú tỉnh Bình Thuận được hình thành dựa theo thế núi nên có chùa Trên, chùa Dưới đều quay mặt về hướng đông nam. Đặc trưng kiến trúc chùa theo phái Bắc Tông, dù qua nhiều lần trùng tu nhưng vẫn giữ được nét riêng cổ kính với mái cong lợp ngói, lưỡng long chầu nguyệt đã nhuốm màu rêu phong."}
+      ]
+    },
+    {
+      "name" : " Tháp Poshanư -Phan Thiết",
+      "bio" :"Tháp Poshanư (còn gọi là Tháp Chăm Phố Hài) là một nhóm di tích đền tháp Chăm còn sót lại của Vương quốc Chăm Pa xưa, nằm trên đồi Bà Nài, thuộc phường Phú Hài, cách trung tâm thành phố Phan Thiết 7 km về hướng Đông-Bắc. Đây được xem như những dấu tích lịch sử và dấu chân của người Chăm Pa trên mảnh đất Bình Thuận này.",
+      "image" : "thapposhanu",
+      "works" : [
+          {"title" : "Lịch sử tháp Chàm Poshanư",
+          "image" : "thapposhanu1",
+        "info" : "Quần thể tháp là một nhóm di tích đền tháp được xây dựng vào khoảng cuối thế kỉ thứ 8, đầu thế kỷ thứ 9 tại Vương quốc Chăm Pa cổ, thờ thần Shiva – một trong những vị thần Ấn Độ giáo được sùng bái và tôn kính nhất trong văn hóa Chăm Pa.Đến thế kỷ 15, quần thể tháp được xây dựng thêm một số đền thờ với kiến trúc đơn giản để thờ công chúa Poshanư – con vua Para Chanh. Công chúa Poshanư là người được nhân dân yêu quý về tài đức và phép ứng xử. Bà cũng chính là người đã chỉ dạy nhân dân trồng lúa nước, dệt vải thổ cẩm, trồng trọt, chăn nuôi…Năm 1992 – 1995, những cuộc khai quật khảo cổ tại đây đã phát hiện ra ngoài 3 tháp chính, khu này ngày xưa có một đền thờ lớn nhưng đền thờ này đã bị chôn vùi sâu dưới lòng đất từ hơn 300 năm.Năm 1990 – 2000 tháp đã được tu bổ, tôn tạo và hiện nay đã hoàn thành việc tu bổ di tích"},
+        {"title" : "Lễ hội ở Poshanư",
+          "image" : "thapposhanu3",
+        "info" : "Hàng năm, khu di tích tháp Poshanư được đông đảo người Chăm từ các vùng lân cận đến cúng viếng cầu bình an, làm lễ cầu mưa, hay cầu cho những chuyến đi biển được bình yên, cùng những nghi lễ truyền thống khác thể hiện sự tưởng nhớ công ơn của người xưa và sự sùng bái thần linh… được lưu truyền từ đời này sang đời khác.        "},
+          {"title" : "Kiến trúc của tháp",
+          "image" : "thapposhanu2",
+          "info" : "Quần thể tháp Chàm là một tuyệt tác của dân tộc Chăm để lại cho nhân loại. Tuy chỉ có kích thước vừa và nhỏ nhưng nó chắt lọc những tinh hoa kỹ thuật kiến trúc và nghệ thuật trang trí của người Chăm xưa tạo nên vẻ uy nghiêm và kì bí. Tháp được xây dựng theo phong cách kiến trúc Hòa Lai – kiểu kiến trúc thành công nhất, đẹp nhất của người Chăm Pa."}
+      ]
+    },
+    {
+      "name" : "Suối Tiên-Phan Thiết",
+      "bio" :"Suối Tiên là một khe nước nhỏ ngay cạnh Hòn Rơm, thuộc phường Mũi Né, thành phố Phan Thiết, khu vực này được du khách đặt cho là “Bồng Lai Tiên Cảnh”. Đến với Suối Tiên các du khách sẽ được thấy một khung cảnh mà tạo hóa ban tặng cho nơi đây khá là đẹp với hai bên là dãy núi cao màu vàng nhạt, dưới chân là dòng suối nhỏ chảy qua. Đây cũng là địa điểm mà các cặp cô dâu chú rể chọn để có những bức ảnh đẹp cho ngày cưới đẹp",
+      "image" : "suoitien_phanthiet",
+      "works" : [
+          {"title" : "Nhũ đá",
+          "image" : "suoitien_phanthiet1",
+        "info" : "Hàng nghìn những hình nhũ hình thành nên từ cát, theo năm tháng trở nên cứng như đá, bị gió mưa mài mòn nên mang trên mình một vẻ đẹp hoang sơ, kỳ thú vô cùng. Màu đỏ nâu của đất cát cùng với những hình nhũ đủ hình thù, đủ kích cỡ làm cho bờ suối trở nên hùng vĩ như những đền tháp, như một thành quách bị lãng quên…"},
+          {"title" : "Sông nước",
+          "image" : "suoitien_phanthiet2",
+          "info" : "Nước ở đây chỉ xăm xắp bề mặt, khoảng mắt cá chân người. Dòng nước dìu dịu mát như xua bớt cái nắng nóng gay gắt của đất trời Phan Thiết, tạo nên một cảm giác thích thú đến lạ. Từ dân bản xứ đến khách thập phương, ai nấy đều thích tận hưởng cái má dịu lúc ngâm chân dưới dòng suối sau khi đã chu du miền cát nóng hổi, mọi ưu tư dường như tan biết, chỉ còn đọng lại trong mỗi người những niềm vui khám phá."}
+      ]
+    },
+    {
+      "name" : "Đồi Hồng -Mũi Né",
+      "bio" :"Đồi Hồng Mũi Né, còn gọi là Đồi Cát Bay – một trong những bãi cát trải dài nhiều cây số và lan rộng ở một diện tích không nhất định với tổng thể lớn. Nằm trải dài từ tỉnh Bình Thuận đến Ninh Thuận nhưng điểm tham quan chính của đồi hồng được xem là đẹp nhất nằm trên đường ra Mũi Né, nằm đối diện Suối Tiên và nhà hàng Hương Trà.",
+      "image" : "doihong",
+      "works" : [
+          {"title" : "Giới thiệu",
+          "image" : "doihong",
+        "info" : "Bất cứ ai về tham quan điểm du lịch Phan Thiết, đều không thể không đến thăm quan Đồi Cát Bay. Một chút mông lung khi chạm đến cái tên, nhưng dường như ai cũng dễ dàng cảm nhận sự sống động đang tồn tại như hơi thở của điểm đến đầy hấp dẫn này.Thuộc khu vực Mũi Né, với các tên gọi khác nhau như Đồi Cát Mũi Né, Đồi Cát Bay hay Đồi Cát Hồng, nơi này luôn mang lại cho du khách những trải nghiệm rất đặc biệt bởi những đặc điểm khá đặc trưng mà không đâu có được. Mặt trái của cảnh quan này là sự sa mạc hóa ảnh hưởng không nhỏ đến cuộc sống, nhưng những điều kỳ thú diễn ra ở đây dường như che lấp hết mặt tiêu cực của nó. Với hình dạng thay đổi theo giờ và màu cát thay đổi do đặc điểm kiến tạo, Đồi Cát Bay là một bức tranh giản đơn nhưng mang nét quyến rũ tiềm ẩn. Được thu vào bao ống kính, hình thành những bức ảnh tuyệt vời đến không thể diễn tả, những triền cát trập trùng, khi tạo thành hình như sóng biển, lúc xoắn ốc như những bức vẽ lạ lùng của thiên nhiên…luôn làm người ngắm hình ngoạn cảnh phải say mê."}
+        
+      ]
+    },
+    {
+      "name" : "Thắng cảnh Bàu Trắng",
+      "bio" :"Bàu Trắng là một hồ nước ngọt cách thành phố Phan Thiết khoảng 62 km về hướng Đông Bắc, là hồ nước ngọt duy nhất thuộc xã Bình Nhơn, huyện Hòa Đa, tỉnh Bình Thuận, nay thuộc nhất thuộc thôn Hồng Lâm, xã Hoà Thắng, huyện Bắc Bình (trước đây là thôn Hồng Lâm, xã Hòa Thắng, huyện Bắc Bình).",
+      "image" : "bautrang",
+      "works" : [
+          {"title" : "Đồi cát",
+          "image" : "",
+        "info" : "Đồi cát gắn liền với Bàu Trắng hàng nghìn năm nay. Đồi cát mang lại nguồn cát vô tận, còn Bàu Trắng mang đến nguồn nước ngọt mát lành. Cả hai kết hợp thành một chốn có phong cảnh thật nên thơ hữu tình.Đặt chân đến đồi cát Bàu Trắng, bạn có thể lang thang khắp các triền cát ngắm cảnh, chụp ảnh, tổ chức cắm trại giữa không gian mênh mông của thiên nhiên. Thú vị hơn, để khám phá vẻ đẹp kỳ diệu của “tiểu sa mạc còn hoang sơ” này, những ai yêu thích cảm giác mạnh có thể thuê xe địa hình giá khoảng 400.000-600.000 đồng/chiếc 2 người/20 phú"},
+          {"title" : "Hồ sen",
+          "image" : "bautrang2",
+          "info" : "Bạn không khỏi ngỡ ngàng khi bắt gặp hồ nước ngọt lấp lánh dưới ánh mặt trời. Bạn sẽ được dịp chiêm ngưỡng cảnh hồ sen tuyệt đẹp được vây quanh bởi những triền cát bao la. Đứng từ trên đồi nhìn xuống, mặt hồ trong xanh rợp sắc hồng hoa sen trông rất thơ mộng và tràn đầy sức sống. "},
+          {"title" : "Làn nước ngọt",
+            "image" : "bautrang",
+            "info" : "Làn nước ngọt mát và sắc xanh dịu mắt của hồ dường như giúp xua bớt cái nóng bỏng rát của vùng sa mạc này. Không chỉ có vậy, gió qua những rặng phi lao hài hòa cùng tiếng nước lay động tạo nên thanh âm diệu kỳ."}
+      ]
+    },
+    {
+      "name" : " Trường Dục Thanh",
+      "bio" :"Dục Thanh Học hiệu (viết tắt của: Giáo Dục Thanh Thiếu Niên) là một ngôi trường do các sĩ phu yêu nước ở Phan Thiết, tỉnh Bình Thuận sáng lập vào năm 1907 để hưởng ứng phong trào Duy Tân do Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng khởi xướng tại Trung Kỳ. Đây cũng là ngôi trường mà Nguyễn Tất Thành (sau này là Hồ Chí Minh) đã dừng chân dạy học một thời gian trước khi vào Sài Gòn trong chuyến xuất ngoại.",
+      "image" : "truongducthanh",
+      "works" : [
+          {"title" : "Lich sử",
+          "image" : "truongducthanh1",
+        "info" : "Dục Thanh (viết tắt của: Giáo Dục Thanh Thiếu Niên) là một ngôi trường ở thành phố Phan Thiết (tỉnh Bình Thuận) mà Nguyễn Tất Thành (sau này là Hồ Chí Minh) đã từng dạy học ở đó.Trường Dục Thanh là một cơ sở của Công ty Liên Thành – một tổ chức yêu nước nổi tiếng được thành lập hồi đầu thế kỷ 20 gồm ba bộ phận với ba chức năng :Liên Thành Thương quán: làm kinh tế gây quỹ hoạt động,Liên Thành Thư xã: tuyên truyền và truyền bá các sách báo có nội dung yêu nước và  Dục Thanh Học hiệu: mở trường dạy cho con em người yêu nước và lao động nghèo theo nội dung yêu nước và tiến bộ do các nhà chí sĩ Nguyễn Trọng Lội, Nguyễn Quý Anh (là hai con trai nhà thơ Nguyễn Thông), Trương Gia Mô, Hồ Tá Bang, Nguyễn Hiệt Chi, Trần Lệ Chất sáng lập ở Phan Thiết, nhằm hưởng ứng phong trào Duy Tân mà Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng khởi xướng tại Trung Kỳ"},
+        {"title" : "",
+          "image" : "truongducthanh2",
+        "info" : "Khu di tích trường Dục Thanh đã trở thành một trong những nơi gắn liền với thân thế và sự nghiệp của chủ tịch Hồ Chí Minh. Một điểm tham quan, học hỏi về lịch sử đáng chú ý khi bạn đến với Phan Thiết."}
+      ]
+    },
+    {
+      "name" : "Bãi Rạng -Phan Thiết",
+      "bio" :"Bãi Rạng hay biển Rạng là bãi tắm đẹp nhất của TP. Phan Thiết. Bãi Rạng cách trung tâm thành phố khoảng 15 km về phía Bắc. Nơi đây cũng khá nhiều khách sạn và resort cho các du khách lựa chọn để thỏa mình vào làn nước trong xanh nơi đây.",
+      "image" : "bairang",
+      "works" : [
+          {"title" : "Giới thiệu",
+          "image" : "bairang1",
+        "info" : "Bãi Rạng Mũi Né còn được xem là nơi giao thoa hai nét đẹp rất độc đáo. Một nét đẹp sang trọng hiện đại của các khu resort cao cấp. Vẻ đẹp hoang sơ vốn có của thiên nhiên cùng những làng chài nhỏ mộc mạc.Du khách đi biển Rạng buổi sớm, thường ai cũng máy ảnh trên tay. Nhiều du khách trong và ngoài nước dù đêm qua thức khuya để vui chơi nhưng cũng ra biển từ rất sớm. Họ thích thú chụp hình, trò chuyện với ngư dân bằng tiếng Việt hoặc qua phiên dịch. Sinh hoạt của làng chài trở thành chủ đề sáng tác của du khách. Họ mải miết chụp hình, có người còn “hy sinh vì nghệ thuật” để chụp những bức ảnh sống ảo."},
+        {"title" : "Làng chài bãi rạng",
+          "image" : "bairang2",
+        "info" : "Ở làng chài, hiện không còn nhiều dân do phần lớn đã di dời khỏi khu vực này để nhường chỗ cho dịch vụ du lịch. Bãi biển Rạng rộng rãi và thông thoáng. Mỗi lần đến đây, du khách đều thức sớm để ra biển đi dạo và không quên ghi lại khoảnh khắc bình minh khi mặt trời ló dần ra khỏi biển. Khi bầu trời vừa ửng hồng chuyển từ đêm sang ngày là lúc bạn có thể chuẩn bị chụp những bức ảnh đẹp, ghi lại thời khắc chuyển giao của đất trời."},
+        {"title" : "Nét hoang sơ, bình dị của Bãi Rạng Mũi Né",
+          "image" : "bairang3",
+        "info" : "Không chỉ sở hữu những bãi san hô tuyệt đẹp. Bãi Rạng Mũi Né còn có một bãi cát vàng lung linh dưới nắng. Nước biển trong vắt và rất sạch. Bơi ra xa bờ một chút, du khách sẽ có thể tận mắt ngắm nhìn những đàn cá nhỏ tung tăng trong nước. Bình minh và hoàng hôn tại Bãi Rạng Phan Thiết là hai khung cảnh tuyệt đẹp. Còn gì tuyệt vời hơn khi được thong dong dạo bước trên bờ cát trắng, lắng nghe tiếng sóng biển rì rào dưới khoảng trời ửng đỏ. Nét đẹp huyền ảo của thiên nhiên như giúp xua tan đi những bộn bề lo toan của du khách."}
+
+      ]
+    },
+    {
+      "name" : "Hòn Rơm",
+      "bio" :"Hòn Rơm  cách TP Phan Thiết 28km. Nơi đây núi choàng lên nhau, ôm ấp bãi biển dài uốn lượn hơn 17km, gối đầu lên những đồi cát vàng thoai thoải hai bên rặng dừa xanh. Đây là địa điểm rất thích hợp cho các nhóm bạn và gia đình đi nghỉ dưỡng.",
+      "image" : "honrom",
+      "works" : [
+          {"title" : "Hòn Rơm yên ắng",
+          "image" : "honrom1",
+        "info" : "Cảnh sắc nơi đây vẫn còn nguyên nét hoang sơ, kỳ vỹ và đầy thơ mộng. Với sa mạc cát_ nơi cảm xúc thăng hoa và những cuộc chin phục thú vị ( trượt cát, thi leo đồi cát…). Với suối Hồng, du khách được ngâm chân trong làn nước mát rượi và tận hưởng cảnh sắc thiên nhiên của vùng đất đỏ phù sa. Đặc sắc hơn hết, bãi biển Hòn Rơm_ Mũi Né với nước biển xanh trong, những dãy đồi cát thoai thoải hai bên đường đi và bãi cát vàng ven biển vừa rộng vừa thoáng mát bởi những rặng dừa xanh xào xạt trong gió lộng biển khơi.Đặc biệt, bãi tắm nơi đây nông, sạch và trong lại rất an toàn, thích hợp cho du khách lưu trú , nghỉ dưỡng"},
+        {"title" : "Ngọn hải đăng thấp thoáng đằng xa",
+          "image" : "honrom2",
+        "info" : "Khu du lịch Hòn Rơm 1 và Hòn Rơm 2 đã được cải tạo và xây dựng sạch đẹp, văn minh hơn. Với những tour đi ngắn ngày, nơi đây là thích hợp nhất. Du khách có thể mang theo đồ ăn, vật dụng cần thiết cho chuyến đi trong ngày, thuê ghế nằm và bàn ăn hoặc ô dù nằm phơi nắng. Các chị gánh hàng rong với đủ loại hải sản tươi ngon vẫn còn cựa quậy trong mỗi chậu nước mát cho thực khách lựa chọn với giá cả hợp lý vừa phải. Chỉ với ít phút ngồi tán gẫu hay nô đùa dưới làn nước mát , các chị bán hàng sẽ chế biến theo ý muốn của du khách và sẵn sàng để thưởng thức.Một vài lon bia cho dĩa mực trứng hấp gừng hay sò điệp nướng mỡ hành….mang lại cho du khách cảm giác ấm áp cùng người thân, bè bạn sum vầy bên bữa ăn vừa ngon, bổ , rẻ lại đầm đà hương vị biển."}
+
+      ]
+    },
+    {
+      "name" : "Biển & bãi đá Cổ Thạch -Bình Thuận",
+      "bio" :"Biển và bãi đá Cổ Thạch nằm ở xã Bình Thạnh, huyện Tuy Phong, tỉnh Bình Thuận. So với các bãi biển trong tỉnh Bình Thuận thì biển Cổ Thạch là sự kết hợp những bãi đá dài cùng làn cát vàng mịn, làn nước trong xanh. Bãi đá với đủ loại màu sắc hình thù tuyệt đẹp. Đây là địa điểm mà nhiều du khách chọn làm nơi dừng chân khi đến Bình Thuận.",
+      "image" : "baidacothach",
+      "works" : [
+          {"title" : "CẢNH ĐẸP NHƯ CỔ TÍCH Ở BIỂN CỔ THẠCH",
+          "image" : "baidacothach1",
+        "info" : "Những bãi đá của vùng biển Bình Thuận ấn tượng với vẻ lung linh như những viên ngọc nhiều màu sắc, lúc lại xù xì như những quái vật biển khổng lồ hay xanh thẳm một màu rêu phong."},
+        {"title" : "Bãi đá lung linh sắc màu",
+          "image" : "baidacothach2",
+        "info" : "Điều hấp dẫn nhất ở bãi biển là những bãi đá lung linh sắc màu. Bãi đá hình thành tự nhiên do tác động của thủy triều, hải lưu, nước biển. Đá được đẩy từ lòng biển trồi nhô lên bờ. Đá có nhiều kích thước lớn nhỏ khác nhau.Hiện tượng đá được đẩy lên bờ ngày nào cũng diễn ra, từ ngàn xưa cho đến nay. Đá không chỉ có màu đen hay màu xám, mà còn nhiều màu sắc nữa: nâu, vàng, tím, trắng, xanh lam, hồng, đỏ… cùng nhiều đường vân rất đẹp."},
+        {"title" : "Lớp rêu phong",
+          "image" : "baidacothach3",
+        "info" : " cảnh tượng kỳ thú nhất trong năm khi giữa trung tuần tháng 3 là khi toàn bộ đá được bao phủ một lớp rêu xanh thật đẹp và độc nhất vô nhị."}
+
+      ]
+    },
+    {
+      "name" : "Đảo Hòn Bà- Bình Thuận",
+      "bio" :"Đảo Hòn Bà thuộc thị xã La Gi, huyện Hàm Tân, tỉnh Bình Thuận. Từ đất liền ra đến đảo Hòn Bà mất khoảng 15 phút đi tàu. Đây là hòn đảo còn khá hoang sơ, toàn đảo phủ một màu xanh của các loại cây dại, bờ biển cát mịn làn nước trong xanh. Đây là địa điểm rất tuyệt để du khách được thỏa thích tung tăng bơi lội.",
+      "image" : "daohonba",
+      "works" : [
+          {"title" : "Đảo ",
+          "image" : "daohonba1",
+        "info" : "Hòn Bà là một hòn đảo nhô cao lên giữa biển và là ngọn núi trẻ, trên núi có nhiều cây cổ thụ lớn.Hòn Bà cách bờ biển Lagi, huyện Hàm Tân gần 2km về hướng Ðông, cách Phan Thiết khoảng 70km về phía Ðông Nam. Hòn Bà có đỉnh cao so mặt biển 38m, diện tích khoảng 2,8ha và đường chu vi chân đảo từ 700m - 800m. Dưới chân đảo là những bãi đá ngầm chỉ sót lại một mảnh cát bồi nơi cặp thuyền lên đảo."},
+        {"title" : "Đẹp và hùng vĩ",
+          "image" : "daohonba2",
+        "info" : "Đứng từ bờ biển Tân Bình phóng tầm nhìn ra biển Đông khoảng 2km, Hòn Bà như chơ vơ giữa biển nhưng không kém phần thách đố trước sóng biển, giông tố của đại dương mênh mông. Cả hòn đảo gần như phủ kín màu xanh của các loại cây cổ thụ có nhiều năm tuổi, khẳng định một sức sống mãnh liệt mà thiên nhiên đã ưu đãi và tạo nên một bức tranh thủy mặc quyến rũ, thơ mộng và đầy thách thức đối với con người."}
+
+      ]
+    },
+    {
+      "name" : " Chùa Hang -Bình Thuận",
+      "bio" :"Chùa Hang (còn gọi chùa Đá Cổ, hay chùa Cổ Thạch) tọa lạc ở xã Bình Thạnh, huyện Tuy Phong (Bình Thuận). Chùa là điểm hành hương và cũng là điểm tham quan của tỉnh Bình Thuận. Chùa có hơn 100 năm tuổi, là một di tích, thắng cảnh cấp quốc gia được công nhận vào năm 1993 của tỉnh Bình Thuận cách Phan Thiết 95 km và cách thị trấn Liên Hương 10 km từ quốc lộ 1A.",
+      "image" : "chuahang",
+      "works" : [
+          {"title" : "Một cõi linh thiêng chùa hang",
+          "image" : "chuahang1",
+        "info" : "Nơi đây quanh năm chan hòa ánh nắng, khí hậu mát mẻ trong lành được chắt lọc bởi những luồng gió biển mặn mà, mát lạnh. Tất cả tạo nên một thiên cảnh trầm lặng lý tưởng cho việc tu hành của các nhà sư và trở thành điểm du lịch thú vị cho người phàm trần.Ngược dòng thời gian trở về những năm 1835 – 1836, lúc ấy có vị Thiền sư Bảo Tạng tìm đến Bình Thạnh lấy việc đạo hạnh, tu tịnh để cứu vớt người đời khỏi bể trầm luân trong lúc xã hội phong kiến Triều Nguyễn nhiễu loạn quá nhiều mâu thuẫn. Ông đã chọn địa điểm khai lập nên Cổ Thạch Tự và trụ trì nơi đây 5 năm. Sau đó, vị Thiền sư giao chùa cho các đệ tử trông coi, ông tiếp tục độc hành vào phía Nam của tổ quốc và dừng chân ở miền Đông Nam Bộ (Đồng Nai và Bà Rịa – Vũng Tàu). Để tưởng nhớ công lao của vị Thiền sư Bảo Tạng có công khai sơn lập nên Cổ Thạch Tự, nhà chùa lấy ngày 25.05 làm ngày giỗ Tổ hàng năm. Gần 170 năm đã trôi qua, Cổ Thạch Tự từ một thảo am nhỏ đã được tôn tạo theo thời gian và mở rộng thêm một số công trình phụ cảnh để phục vụ cư dân bản địa và khách du lịch. Vẻ đẹp thiên nhiên hiếm có của chùa từ lâu đã trở nên nổi tiếng được nhiều người khắp nơi biết đến, khách du lịch thường xuyên hành hương về chùa viếng Phật và tham quan."},
+        {"title" : "Lối vào chùa",
+          "image" : "chuahang2",
+        "info" : "Lối vào chùa qua cổng Tam quan quay về phía Tây Nam là con đường có 36 bậc thang được gắn kết với nhau bằng phiến thạch. Dưới chân bậc thang là đôi rồng uốn lượn hai bên được đúc bằng xi-măng như chào đón những ai có duyên đến viếng chùa. Bên phải chiếc cầu gần cổng Tam quan là bức tượng hình Hổ ngồi và bên trái là tượng Voi nằm được tạc tạo tinh vi. Ba phiến đá tự nhiên nổi lên cao xếp thành hàng ngang ở phía trước khu Chính điện làm nổi bật con cá Kình bằng đá tự nhiên (theo Kinh của Phật gọi là con “ma kiệt”, một loài thủy quái được xem là hóa thân từ Phật Bà Quan Thế Âm Bồ Tát để giúp đỡ ngư dân khi gặp nạn ở biển khơi). Nếu chui vào từng hang đá trong khu Chính điện, du khách mới thấy hết sự trang nghiêm của Phật đường. Mỗi hang động là mỗi vẻ đẹp tự nhiên kết hợp với kiến trúc cổ trở nên huyền bí một cách lạ lùng."},
+        {"title" : "Điểm du lịch lý tưởng",
+          "image" : "chuahang3",
+        "info" : "Khách đến chùa Hang – Cổ Thạch Tự quanh năm. Sau khi viếng cảnh chùa, du khách thường tập trung xuống bờ biển. Chính vì thế, suốt chiều dài bãi đá con lúc nào cũng đằy ắp bóng người. Những thú vui mùa hè như tắm biển, vớt rong đuôi ngựa, nhặt bào ngư, sưu tầm đá cuội, cắm trại …có sức thu hút du khách thật sự. Mỗi người mách cho nhiều người, tốp này đến tốp kia lại đi, cứ thế mọi người bảo nhau cùng đến nơi đây tham quan, nghỉ dưỡng. Đêm ở Cổ Thạch Tự. Dưới ánh trăng vàng, du khách có thể lặng thinh lắng nghe tiếng sóng biển rì rào, thì thầm những bản tình ca muôn thuở. Và mọi người cùng tận hưởng bầu không khí trong lành, luồng gió mát rượi mang hương vị nồng nàn mặn chát của biển, dõi mắt tận khơi xa để có thể thấy được hàng nghìn chiếc đèn câu nhấp nháy trong đêm như một thành phố nổi trên mặt nước. Thật là thiếu sót nếu không nhắc đến người dân bản địa nơi đây. Nếu như cảnh vật của chùa Hang nên thơ kỳ vĩ bao nhiêu thì người dân Bình Thạnh cần cù lao động, chân chất hiền hòa bấy nhiêu và bền bỉ kiên cường, đấu tranh bất khuất chống giặc ngọai xâm. Từ thuở khai thiên lập địa đến nay, Cổ Thạch Tự đã trải qua biết bao thăng trầm của lịch sử. Ngoài việc đạo, bước đi của chùa còn gắn với việc đời, việc nước cùng với nhân dân góp phần giải phóng quê hương. Chùa Hang còn là điểm bí mật nuôi giấu cán bộ, trong đó có nhiều vị lãnh đạo cấp cao của Chính phủ"}
+
+      ]
+    },
+    {
+      "name" : "Đảo phú quý _Bình thuận",
+      "bio" :"Đảo Phú Quý (còn gọi là cù lao Thu hay cù lao Khoai Xứ) là một đảo có diện tích 16 km² nằm ngoài khơi bờ biển Nam Trung Bộ thuộc Việt Nam đi ra đảo mất khoảng 60 phút. Xung quanh đảo chính Phú Quý còn có các đảo khác như hòn Đá Cao hướng tây bắc, hòn Đỏ hướng đông bắc và hòn Tranh và hòn Hải hướng tây nam. Quần đảo này nằm dưới sự quản lí của huyện Phú Quý, tỉnh Bình Thuận",
+      "image" : "daophuquy",
+      "works" : [
+          {"title" : "khung cảnh hoàng hôn tuyệt đẹp",
+          "image" : "daophuquy1",
+        "info" : "Chẳng ai ghé thăm biển đảo mà lại bỏ về khi chưa ngắm hoàng hôn. Có thể mỗi người có một lý do, một dự định riêng khi ngắm hoàng hôn ở biển, nhưng đến Phú Quý rồi, dù bạn chẳng có lý do hay dự định gì thì bạn cũng chẳng thể rời mắt được cảnh hoàng hôn rực rỡ ở nơi này. Có rất nhiều điểm ngắm hoàng hôn đẹp trên đảo như: Bờ kè Ngũ Phụng, dinh Thầy Nại, vịnh Triều Dương,… tuy nhiên điểm ngắm hoàng hôn đẹp và phổ biến nhất là ở đỉnh núi của chùa Linh Sơn. Bởi từ đây bạn có thể phóng tầm mắt nhìn ra khung cảnh phía xa, nơi khi mặt trời buông xuống sẽ tạo thành những sắc cam đậm nhạt trên nền trời, trông rất ngoạn mục."},
+        {"title" : "Người dân hiền lành chất phác và cực kỳ thân thiện",
+          "image" : "daophuquy2",
+        "info" : "Thực sự không có nhiều điểm đến du lịch mà người dân lại vui vẻ chào đón bạn như ở đảo Phú Quý, và bạn sẽ nhanh chóng nhận ra điều này ngay khi bước chân vào địa phận của đảo. Rất nhiều du khách đã từng đến thăm đảo đều có chung một một nhận định rằng, người dân đảo Phú Quý rất nhiệt tình và tốt bụng, họ có thể mang đến cho bạn sự yên tâm và nhiều tiếng cười. Do vậy, bạn đừng vội ngạc nhiên khi bạn được một người dân tốt bụng mời vào nhà để uống nước và chia sẻ những câu chuyện thú vị trên đảo nhé!"},
+        {"title" : "Nước biển trong xanh nhìn thấy đáy",
+          "image" : "daophuquy3",
+        "info" : "Mang đặc điểm của vùng đảo hoang sơ, ở Phú Quý có rất nhiều bãi biển đẹp với cát trắng, nước trong veo, phản chiếu trời xanh ngắt. Vùng biển này cũng chưa được đưa vào khai thác dịch vụ du lịch nên mọi thứ đều nguyên sơ. Thiên nhiên trên đảo mang đến cảm giác bình yên, thư thả, vô cùng thích hợp để nghỉ ngơi, tránh khỏi sự xô bồ của thành thị. Đặc biệt, người dân ở đây rất có ý thức bảo vệ môi trường sống, các bãi biển, cầu cảng đều rất sạch và hiếm thấy rác."},
+        {"title" : "bộ xương cá voi thuộc loại lớn nhất Việt Nam",
+          "image" : "daophuquy4",
+        "info" : "Phú Quý có đến gần 30 di tích văn hóa với nhiều loại hình tín ngưỡng khác nhau. Tuy nhiên, nổi bật nhất là Vạn An Thạnh (thuộc thôn Triều Dương, xã Tam Thanh) xây dựng từ năm 1781 và là “bảo tàng” cá voi trên đảo. Theo truyền thuyết của người dân địa phương thì cá voi hay còn gọi là cá Ông đã từng rất nhiều lần cứu giúp ngư dân và tàu thuyền khi gặp nạn trên biển. Có nhiều ngư dân tại đây đã từng được cá Ông cứu hiện vẫn đang còn sống trên đảo, và hầu hết người dân trên đảo đều rất kính trọng cá Ông. Do vậy, khi cá Ông bị chết và dạt vào bờ biển Phú Quý thì được người dân địa phương tổ chức an táng rất long trọng, và hàng năm đều có tổ chức lễ hội Nghinh Ông. Ghé thăm nhà trưng bày cốt Ông Hải Nam tại Vạn An Thạnh bạn sẽ có cơ hội được nhìn thấy bộ xương cá voi dài gần 20m, đây cũng là một trong những bộ xương cá voi lớn nhất ở Việt Nam."}
+
+      ]
+    }
+
+
+  ]
+}
